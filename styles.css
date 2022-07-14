@@ -38,12 +38,18 @@ body {
 	margin-top: 10px;
 	border: 5px;
 }
-.body-right input {
-	border-bottom: grey;
-	background-color: beige;
-	text-align: center;
+input {
+	border-bottom-color: grey;
+	border-left: none;
+	border-top: none;
+	border-top: none;
+	padding-right: 4px;
 }
 .body-right {
 	margin-top: 13px;
 	padding-left: 7px;
+}
+.body-right input {
+	margin-top: 8px;
+	margin-bottom: 20px;
 }
